@@ -3,6 +3,10 @@
 A curated list of devops resources.
 Join us on [discord](https://discord.gg/PzUnfWW) and [our forum](https://forum.bitmerge.org)! 
 
+## Documentation
+* [outline](https://github.com/outline/outline)
+* [xwiki](http://www.xwiki.org)
+
 ## IDEs
 * [intellij](https://jetbrains.com)
 * [pycharm](https://www.jetbrains.com/pycharm/)
