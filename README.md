@@ -3,6 +3,11 @@
 A curated list of devops resources.
 Join us on [discord](https://discord.gg/PzUnfWW) and [our forum](https://forum.bitmerge.org)! 
 
+## Automation
+* [ansible](https://ansible.com)
+* [puppet](https://puppet.com)
+* [terraform](https://www.terraform.io)
+
 ## Documentation
 * [outline](https://github.com/outline/outline)
 * [xwiki](http://www.xwiki.org)
