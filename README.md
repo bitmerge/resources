@@ -22,7 +22,7 @@ Join us on [discord](https://discord.gg/PzUnfWW) and [our forum](https://forum.b
 * [zabbix](https://zabbix.com)
 
 ## Programming
-* [automate the boring stuff](https://automatetheboringstuff.com) automate the boring stuff with python
+* [automate the boring stuff](https://automatetheboringstuff.com): automate the boring stuff with python
 * [Eloquent Javascript](https://eloquentjavascript.net): a must read for any javascript developer.
 
 ## Troubleshooting
